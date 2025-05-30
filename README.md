@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">Databes</p>
+<p align="left">Databases</p>
 
 ###
 
